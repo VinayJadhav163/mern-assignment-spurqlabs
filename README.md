@@ -26,13 +26,6 @@ A full-stack MERN application for candidates to submit personal information, upl
 
 ---
 
-⚠️ **Notes**
-- Resume uploads must be PDF and ≤ 5 MB
-- Video recordings must be ≤ 90 seconds
-- Ensure camera and microphone permissions are granted for video recording
-
----
-
 ## 🚀 Getting Started
 
 1. Clone the repository:
@@ -126,6 +119,13 @@ mern-assignment-spurqlabs/
   - Embedded video playback
 
 ---
+⚠️ **Notes**
+- Resume uploads must be PDF and ≤ 5 MB
+- Video recordings must be ≤ 90 seconds
+- Ensure camera and microphone permissions are granted for video recording
+---
+
+
 
 ## 📸 Screenshots 
 
